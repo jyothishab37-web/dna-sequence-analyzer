@@ -46,3 +46,10 @@ ATGGCC
 1. Clone the repository:
 ```bash
 git clone https://github.com/jyothishab37-web/dna-sequence-analyzer.git
+## Screenshots
+
+### Home Page
+![Home Page](HOMEPAGE.png)
+
+### Result Page
+![Result Page](RESULT.png)
